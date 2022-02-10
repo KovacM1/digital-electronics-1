@@ -11,7 +11,7 @@
 ```vhdl
 architecture dataflow of demorgan is
 begin
-    f_o      <= -- WRITE YOUR CODE HERE
+    f_o      <= -- WRITE okej
     f_nand_o <= -- WRITE YOUR CODE HERE
     f_nor_o  <= -- WRITE YOUR CODE HERE
 end architecture dataflow;
@@ -21,7 +21,7 @@ end architecture dataflow;
 
 | **c** | **b** |**a** | **f(c,b,a)** | **f_NAND(c,b,a)** | **f_NOR(c,b,a)** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 0 | 0 | 0 |  |  |  |
+| 0 | 0 | 0 |   |  |
 | 0 | 0 | 1 |  |  |  |
 | 0 | 1 | 0 |  |  |  |
 | 0 | 1 | 1 |  |  |  |
