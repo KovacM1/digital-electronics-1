@@ -11,9 +11,9 @@
 ```vhdl
 architecture dataflow of demorgan is
 begin
-    f_o      <= -- WRITE okej
-    f_nand_o <= -- WRITE YOUR CODE HERE
-    f_nor_o  <= -- WRITE YOUR CODE HERE
+    f_o      <= (not b_i and a_i) or (not c_i and not b_i);
+    f_nand_o <= not (not ( not b_i and a_i) and not ( not c_i and not b_i));
+    f_nor_o  <= not (b_i or not a_i) or not ( c_i or b_i);
 end architecture dataflow;
 ```
 
@@ -34,8 +34,8 @@ end architecture dataflow;
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![Logic function]()
 
 2. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
+   [https://www.edaplayground.com/x/eGgQ#&togetherjs=rI3Slk9jSx](https://www.edaplayground.com/x/eGgQ#&togetherjs=rI3Slk9jSx)
