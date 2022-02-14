@@ -4,7 +4,12 @@
 
 1. Equations of all three versions of logic function f(c,b,a):
 
+   Main function
    <img width="137" alt="Snímka obrazovky 2022-02-14 o 20 47 23" src="https://user-images.githubusercontent.com/99388246/153935457-2706867a-8adf-48e4-8f27-6d2052769bbe.png">
+   Function NOR only
+   <img width="188" alt="Snímka obrazovky 2022-02-14 o 20 49 47" src="https://user-images.githubusercontent.com/99388246/153935848-892fb32d-d676-4528-8b17-e0303ab22e34.png">
+   Function NAND only
+   <img width="172" alt="Snímka obrazovky 2022-02-14 o 20 50 09" src="https://user-images.githubusercontent.com/99388246/153935917-0e5f83e7-7876-4cb9-82ad-35b14a3bb1cc.png">
 
 
 2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
@@ -35,8 +40,7 @@ end architecture dataflow;
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![Logic function](<img width="1381" alt="Snímka obrazovky 2022-02-13 o 17 42 07" src="https://user-images.githubusercontent.com/99388246/153766551-bb7f3bad-1ddf-4773-8c10-05bd87744c43.png">
-)
+<img width="994" alt="Snímka obrazovky 2022-02-14 o 20 51 24" src="https://user-images.githubusercontent.com/99388246/153936086-386d036b-b7be-409e-b701-490e1ed67127.png">
 
 2. Link to your public EDA Playground example:
 
