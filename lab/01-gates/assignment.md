@@ -4,13 +4,13 @@
 
 1. Equations of all three versions of logic function f(c,b,a):
 
-   Main function
+   Main function:
    <img width="137" alt="Snímka obrazovky 2022-02-14 o 20 47 23" src="https://user-images.githubusercontent.com/99388246/153935457-2706867a-8adf-48e4-8f27-6d2052769bbe.png">
    
-   Function NOR only
+   Function NOR only:
    <img width="188" alt="Snímka obrazovky 2022-02-14 o 20 49 47" src="https://user-images.githubusercontent.com/99388246/153935848-892fb32d-d676-4528-8b17-e0303ab22e34.png">
    
-   Function NAND only
+   Function NAND only:
    <img width="172" alt="Snímka obrazovky 2022-02-14 o 20 50 09" src="https://user-images.githubusercontent.com/99388246/153935917-0e5f83e7-7876-4cb9-82ad-35b14a3bb1cc.png">
 
 
