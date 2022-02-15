@@ -5,13 +5,13 @@
 1. Equations of all three versions of logic function f(c,b,a):
 
    Main function:
-   <img width="137" alt="Snímka obrazovky 2022-02-14 o 20 47 23" src="https://user-images.githubusercontent.com/99388246/153935457-2706867a-8adf-48e4-8f27-6d2052769bbe.png">
+   <img src="https://latex.codecogs.com/svg.image?\bg_white&space;f_{cba}=&space;\bar{b}\cdot&space;a&space;&plus;&space;\bar{c}&space;\cdot&space;\bar{b}&space;" title="\bg_white f_{cba}= \bar{b}\cdot a + \bar{c} \cdot \bar{b} " />
    
    Function NOR only:
-   <img width="188" alt="Snímka obrazovky 2022-02-14 o 20 49 47" src="https://user-images.githubusercontent.com/99388246/153935848-892fb32d-d676-4528-8b17-e0303ab22e34.png">
+<img src="https://latex.codecogs.com/svg.image?\bg_white&space;f_{cba_{(NOR)}}=&space;\overline{b&space;&plus;&space;\bar{a}}&space;&plus;&space;\overline{c&space;&plus;&space;b}" title="\bg_white f_{cba_{(NOR)}}= \overline{b + \bar{a}} + \overline{c + b}" />
    
    Function NAND only:
-   <img width="172" alt="Snímka obrazovky 2022-02-14 o 20 50 09" src="https://user-images.githubusercontent.com/99388246/153935917-0e5f83e7-7876-4cb9-82ad-35b14a3bb1cc.png">
+<img src="https://latex.codecogs.com/svg.image?\bg_white&space;f_{cba_{(NAND)}}=&space;\bar{b}&space;\cdot&space;(\overline{\bar{a}&space;&plus;&space;c})" title="\bg_white f_{cba_{(NAND)}}= \bar{b} \cdot (\overline{\bar{a} + c})" />
 
 
 2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
