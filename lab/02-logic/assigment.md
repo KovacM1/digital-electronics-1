@@ -49,7 +49,8 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   <img width="920" alt="Snímka obrazovky 2022-02-17 o 18 34 16" src="https://user-images.githubusercontent.com/99388246/154538418-45930e47-51d0-4c23-8917-46bac6960a76.png">
+
 
 3. Link to your public EDA Playground example:
 
