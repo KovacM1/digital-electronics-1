@@ -111,7 +111,7 @@ The K-map for the "equals" function is as follows:
 
 1. Create K-maps for other two functions.
 
-   ![Empty Karnaugh map 4x4](images/kmap_empty.png) &nbsp;  &nbsp;  &nbsp;  &nbsp;
+   <img width="419" alt="Snímka obrazovky 2022-02-17 o 11 19 37" src="https://user-images.githubusercontent.com/99388246/154456907-561927a0-08fa-4c03-b8cc-ce92482067ba.png">&nbsp;  &nbsp;  &nbsp;  &nbsp;
    ![Empty Karnaugh map 4x4](images/kmap_empty.png)
 
 2. Use K-maps to create a simplified SoP form of the "greater than" function and a simplified PoS form of the "less than" function.
