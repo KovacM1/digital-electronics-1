@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 REM
 REM Vivado(TM)
 REM htr.txt: a Vivado-generated description of how-to-repeat the
@@ -7,3 +8,14 @@ REM Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 REM
 
 vivado -log Top1.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top1.tcl
+=======
+REM
+REM Vivado(TM)
+REM htr.txt: a Vivado-generated description of how-to-repeat the
+REM          the basic steps of a run.  Note that runme.bat/sh needs
+REM          to be invoked for Vivado to track run status.
+REM Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+REM
+
+vivado -log Top1.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top1.tcl
+>>>>>>> c17b8d332056b76699cee9e89a02abf2d73a1711

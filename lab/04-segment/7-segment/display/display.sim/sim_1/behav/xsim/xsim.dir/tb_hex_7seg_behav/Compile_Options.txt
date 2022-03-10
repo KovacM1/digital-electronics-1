@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 -wto "8139a0e7b67a41e2934423f0aedd5354" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_hex_7seg_behav" "xil_defaultlib.tb_hex_7seg" -log "elaborate.log" 
+=======
+-wto "8139a0e7b67a41e2934423f0aedd5354" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_hex_7seg_behav" "xil_defaultlib.tb_hex_7seg" -log "elaborate.log" 
+>>>>>>> c17b8d332056b76699cee9e89a02abf2d73a1711

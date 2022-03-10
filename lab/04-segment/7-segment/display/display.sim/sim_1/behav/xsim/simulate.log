@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Vivado Simulator 2020.1
 Time resolution is 1 ps
 Note: Stimulus process started
 Time: 0 ps  Iteration: 0  Process: /tb_hex_7seg/p_stimulus  File: D:/Documents/230273-kovac/digital-electronics-1/lab/04-segment/7-segment/display/display.srcs/sim_1/new/tb_hex_7seg.vhd
 Note: Stimulus process finished
 Time: 800 ns  Iteration: 0  Process: /tb_hex_7seg/p_stimulus  File: D:/Documents/230273-kovac/digital-electronics-1/lab/04-segment/7-segment/display/display.srcs/sim_1/new/tb_hex_7seg.vhd
+=======
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Note: Stimulus process started
+Time: 0 ps  Iteration: 0  Process: /tb_hex_7seg/p_stimulus  File: D:/Documents/230273-kovac/digital-electronics-1/lab/04-segment/7-segment/display/display.srcs/sim_1/new/tb_hex_7seg.vhd
+Note: Stimulus process finished
+Time: 800 ns  Iteration: 0  Process: /tb_hex_7seg/p_stimulus  File: D:/Documents/230273-kovac/digital-electronics-1/lab/04-segment/7-segment/display/display.srcs/sim_1/new/tb_hex_7seg.vhd
+>>>>>>> c17b8d332056b76699cee9e89a02abf2d73a1711
