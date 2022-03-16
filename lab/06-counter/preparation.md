@@ -8,8 +8,8 @@ The Nexys A7 board provides five push buttons for user applications.
 
    
 2. Calculate how many periods of clock signal with frequency of 100&nbsp;MHz contain time intervals 2&nbsp;ms, 4&nbsp;ms, 10&nbsp;ms, 250&nbsp;ms, 500&nbsp;ms, and 1&nbsp;s. Write values in decimal, binary, and hexadecimal forms.
-
-   ![IMG_3405](https://user-images.githubusercontent.com/99388246/158629133-91c0d231-9301-4c34-ba05-fac7183625e1.jpg)
+  
+   ![IMG_3406](https://user-images.githubusercontent.com/99388246/158629417-a74f26de-0102-4fa5-a713-7cfc858f7634.jpg)
 
    <!--
    https://editor.codecogs.com/
