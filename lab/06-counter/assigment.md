@@ -33,10 +33,12 @@
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
    <img width="1109" alt="Snímka obrazovky 2022-03-23 o 16 24 08" src="https://user-images.githubusercontent.com/99388246/159734785-e8774b7c-feef-4cdb-b48d-db4816fccfc7.png">
+    <img width="517" alt="Snímka obrazovky 2022-03-23 o 16 25 20" src="https://user-images.githubusercontent.com/99388246/159740823-f5aa717c-0df4-4c18-9709-429ecb86c1e7.png">
 
 
 ### Two counters
 
 1. Image of the top layer structure including both counters, ie a 4-bit bidirectional counter from *Part 4* and a 16-bit counter with a 10 ms time base from *Experiments on your own*. The image can be drawn on a computer or by hand. Always name all inputs, outputs, components and internal signals!
 
-   ![your figure]()
+   !![IMG_3448](https://user-images.githubusercontent.com/99388246/159741071-cecfef8c-a7fc-41e6-adba-cae642ef0e35.jpg)
+
