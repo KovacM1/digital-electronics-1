@@ -8,9 +8,12 @@ Due to the physiological properties of human vision, it is necessary that the ti
 
 <img src= "Images/Nexys_A7_connection.png" width=50% height=50%>
 
-  ![7 Segment display number](Images/7-Segment-Display-Number-Formation-Segment-Contol.png)
+  <img width="515" alt="Snímka obrazovky 2022-03-24 o 8 59 25" src="https://user-images.githubusercontent.com/99388246/159869615-1df4f301-2896-43c3-ab05-dbe33c0f3752.png">
 
-  ![Timing of seven-segment display](Images/Wavedrom_7-segment.png)
+  <img width="582" alt="Snímka obrazovky 2022-03-24 o 8 59 30" src="https://user-images.githubusercontent.com/99388246/159869531-c45d5b1b-6cd3-4864-8626-bb1be35e8c49.png">
+
+<img width="701" alt="Snímka obrazovky 2022-03-24 o 8 59 35" src="https://user-images.githubusercontent.com/99388246/159869587-1fb2c70b-27c1-4803-97d7-8abbe4ad959e.png">
+
 
   > The figure above was created in [WaveDrom](https://wavedrom.com/) digital timing diagram online tool. The figure source code is as follows:
   >
