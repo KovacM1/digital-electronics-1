@@ -6,8 +6,6 @@ Due to the physiological properties of human vision, it is necessary that the ti
 
 1. See schematic of the Nexys A7 board, find out the connection of 7-segment displays, and complete the signal timing to display four-digit value `3.142`.
 
-<img src= "Images/Nexys_A7_connection.png" width=50% height=50%>
-
   <img width="515" alt="Snímka obrazovky 2022-03-24 o 8 59 25" src="https://user-images.githubusercontent.com/99388246/159869615-1df4f301-2896-43c3-ab05-dbe33c0f3752.png">
 
   <img width="582" alt="Snímka obrazovky 2022-03-24 o 8 59 30" src="https://user-images.githubusercontent.com/99388246/159869531-c45d5b1b-6cd3-4864-8626-bb1be35e8c49.png">
