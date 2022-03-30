@@ -1,4 +1,4 @@
-# Lab 7: Martin KOváč
+# Lab 7: Martin Kováč
 
 ### Display driver
 
