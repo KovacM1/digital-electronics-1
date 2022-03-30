@@ -1,4 +1,4 @@
-# Lab 7: YOUR_FIRSTNAME LASTNAME
+# Lab 7: Martin KOváč
 
 ### Display driver
 
@@ -26,13 +26,19 @@
                         dig_o <= "0111";
 
                     when "10" =>
-                        -- WRITE YOUR CODE HERE
+                        s_hex <= data2_i;
+                        dp_o  <= dp_i(2);
+                        dig_o <= "1011";
 
                     when "01" =>
-                        -- WRITE YOUR CODE HERE
+                        s_hex <= data1_i;
+                        dp_o  <= dp_i(1);
+                        dig_o <= "1101";
 
                     when others =>
-                        -- WRITE YOUR CODE HERE
+                        s_hex <= data0_i;
+                        dp_o  <= dp_i(0);
+                        dig_o <= "1110";
                 end case;
             end if;
         end if;
@@ -41,10 +47,11 @@
 
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   !<img width="974" alt="Snímka obrazovky 2022-03-30 o 21 09 08" src="https://user-images.githubusercontent.com/99388246/160917926-10d0dec8-57ee-46eb-ab84-6df40b441dc7.png">
+
 
 ### Eight-digit driver
 
 1. Image of the 8-digit driver's block schematic. The image can be drawn on a computer or by hand. Always name all inputs, outputs, components and internal signals!
 
-   ![your figure]()
+   ![IMG_3475](https://user-images.githubusercontent.com/99388246/160917977-16e9cfcb-cc9f-483b-a544-90f130ea32b2.JPG) width="65%" height="65%">
