@@ -1,4 +1,4 @@
-# Lab 8: Ivo Dovičák
+# Lab 8: Martin Kováč
 
 ### Traffic light controller
 
