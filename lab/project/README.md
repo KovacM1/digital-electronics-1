@@ -1,11 +1,11 @@
-# YOUR_PROJECT_TITLE
+# Nexys board mono audio output and PWM sound generation. Generate basic signals and/or audio samples.
 
 ### Team members
 
-* Member 1 (responsible for xxx)
-* Member 2 (responsible for xxx)
-* Member 3 (responsible for xxx)
-* ...
+* Dominik Caban (responsible for xxx)
+* Ivo Dovičák (responsible for xxx)
+* Martin Kováč (responsible for xxx)
+* Lukáš Kudrna (responsible for xxx)
 
 ### Table of contents
 
