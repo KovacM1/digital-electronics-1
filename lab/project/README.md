@@ -40,6 +40,8 @@ Write your text here.
 
 Write your text here.
 
+![Schem](https://user-images.githubusercontent.com/99388246/165649863-4699d57b-5b60-4eeb-8aff-df5456ab7aca.JPG)
+
 <a name="video"></a>
 
 ## Video
