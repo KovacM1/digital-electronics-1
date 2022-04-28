@@ -27,6 +27,8 @@ The objective of the project within the subject Digital electronics was to creat
 ## Hardware description
 
 Write your text here.
+![278885036_353535676806500_6518462935903523547_n](https://user-images.githubusercontent.com/99388246/165693208-ae4fd1d9-7659-4385-9e47-1a015b2743d0.png)
+![278620852_1021410442135136_7154315500152959101_n](https://user-images.githubusercontent.com/99388246/165693223-0a94e4e5-78b2-440c-bc23-228c8eb99cf3.png)
 
 <a name="modules"></a>
 
