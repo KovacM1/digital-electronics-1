@@ -45,10 +45,10 @@ Top module contains all above modules. It connects them together with hardware c
 ### Top module Testbench
 
 
-|![top](https://github.com/xrysav25/DE1_Parking_assistant/blob/top/Images/top.png)|
+
+![Schem](https://user-images.githubusercontent.com/99388246/165649863-4699d57b-5b60-4eeb-8aff-df5456ab7aca.JPG)
 |:--:| 
 |*Top modul schema*|
-![Schem](https://user-images.githubusercontent.com/99388246/165649863-4699d57b-5b60-4eeb-8aff-df5456ab7aca.JPG)
 
 <a name="video"></a>
 
