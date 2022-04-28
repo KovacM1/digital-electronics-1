@@ -20,7 +20,7 @@
 
 ## Project objectives
 
-The objective of the project within the subject Digital electronics was to create PWM sound generation of basic signals. We used these components. Nexys A7-50 board to control 7-segment display to display frequency of PWM modulation for sinus, saw signals. The codes, testbenches and simulations are created in Vivado. Models and designes of board are created in Altium.
+The objective of the project within the subject Digital electronics was to create PWM sound generation of basic signals. We used these components. Nexys A7-50 board to control 7-segment display to display frequency of PWM modulation for sinus signal. The codes, testbenches and simulations are created in Vivado. Models and designes of board are created in Altium.
 
 <a name="hardware"></a>
 
