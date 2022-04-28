@@ -26,8 +26,13 @@ The objective of the project within the subject Digital electronics was to creat
 
 ## Hardware description
 
-Write your text here.
+The Nexys A7 board is a complete, ready-to-use digital circuit development platform based on the latest Artix-7™ Field Programmable Gate Array (FPGA) from Xilinx®. With its large, high-capacity FPGA, generous external memories, and collection of USB, Ethernet, and other ports, the Nexys A7 can host designs ranging from introductory combinational circuits to powerful embedded processors. Several built-in peripherals, including an accelerometer, temperature sensor, MEMs digital microphone, a speaker amplifier, and several I/O devices allow the Nexys A7 to be used for a wide range of designs without needing any other components.
+
+<img width="601" alt="Snímka obrazovky 2022-04-28 o 8 49 15" src="https://user-images.githubusercontent.com/99388246/165693772-4841876e-1e3c-4a3b-822e-2737d9c66fec.png">
+
+
 ![278885036_353535676806500_6518462935903523547_n](https://user-images.githubusercontent.com/99388246/165693208-ae4fd1d9-7659-4385-9e47-1a015b2743d0.png)
+
 ![278620852_1021410442135136_7154315500152959101_n](https://user-images.githubusercontent.com/99388246/165693223-0a94e4e5-78b2-440c-bc23-228c8eb99cf3.png)
 
 <a name="modules"></a>
