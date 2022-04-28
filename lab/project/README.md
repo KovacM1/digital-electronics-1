@@ -33,6 +33,11 @@ Write your text here.
 ## VHDL modules description and simulations
 
 Write your text here.
+![ALL_1](https://user-images.githubusercontent.com/99388246/165690482-fb4a7660-ae4b-4873-b1ea-3788d28b862e.JPG)
+![ALL_2](https://user-images.githubusercontent.com/99388246/165690508-4f58b8ce-2970-40b8-ac10-aff1f8a2605a.JPG)
+![ALL_3](https://user-images.githubusercontent.com/99388246/165690524-8c277d65-4948-4dea-9443-afff70e9b6df.JPG)
+![ALL_4](https://user-images.githubusercontent.com/99388246/165690564-5b40531b-76fd-4ddd-b681-e5fec9a3feef.JPG)
+
 
 <a name="top"></a>
 
